@@ -1,0 +1,32 @@
+{
+    "cookies": {
+        "message": "We use cookies to enchance your user experience. By using our website you agree to our use of cookies.",
+        "btn": "Accept"
+    },
+    "navbar": {
+        "aboutBtn": "About",
+        "skillsBtn": "Skills",
+        "projectsBtn": "Projects",
+        "contactBtn": "Contact"
+    },
+    "about": {
+        "title": "Hi, I'm Jakub!",
+        "message": "I am a computer science student at the Warsaw University of Life Sciences (SGGW). I am passionate about programming and see my future in this field. My main interests lie in web development and machine learning. I am eager to learn and grow in these areas, and I am excited about the opportunities they present."
+    },
+    "skills": {
+        "title": "Skills"
+    },
+    "projects": {
+        "title": "Projects",
+        "source": "Source",
+        "titleA": "Project A",
+        "titleB": "Project B",
+        "titleC": "Project C",
+        "descriptA": "Simple project without backend. Made using plain JavaScript.",
+        "descriptB": "More complicated project made using React. Still no backend.",
+        "descriptC": "Complicated project with backend written in django."
+    },
+    "contact": {
+        "message": "Don't hesitate to contact me!"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "cookies": {
+        "message": "Strona wykorzystyje pliki cookies. Korzystając z niej zgadzasz się na to.",
+        "btn": "Akceptuję"
+    },
+    "navbar": {
+        "aboutBtn": "O mnie",
+        "skillsBtn": "Umiejętności",
+        "projectsBtn": "Projekty",
+        "contactBtn": "Kontakt"
+    },
+    "about": {
+        "title": "Cześć, jestem Jakub!",
+        "message": "Obecnie studiuję informatykę na SGGW. Pasjonuję się programowaniem i wiążę swoją przyszłość z tą dziedziną. Najbardziej interesuję mnie webdevelopment oraz zagadnienia związane z uczeniem maszynowym. Jestem chętny do nauki i rozwoju w tych obszarach i cieszę się na nadchodzące możliwości."
+    },
+    "skills": {
+        "title": "Umiejętności"
+    },
+    "projects": {
+        "title": "Projekty",
+        "source": "Źródło",
+        "titleA": "Projekt A",
+        "titleB": "Projekt B",
+        "titleC": "Projekt C",
+        "descriptA": "Prosty projekt wykorzystujący jedynie JavaScript. Bez obsługi serwera.",
+        "descriptB": "Bardziej skomplikowany projekt z wykorzystaniem React. Nadal brak obsługi serwera.",
+        "descriptC": "Skomplikowany projekt wykorzystujący framework django do obsługi serwera."
+    },
+    "contact": {
+        "message": "Zapraszam do kontaktu!"
+    }
+}
